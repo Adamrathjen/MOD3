@@ -1,26 +1,27 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The game can be played immediatly when started, movement can be done with either the arrow keys of the WASD keys
+and hitting the moles is done with the space bar
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+I wrote this program to explore the world of game creation and test my hand at making a basic game.
+The experience was extremely helpful and showed me a lot of how the magic happens.
 
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=3DuP9Iv3PCM&ab_channel=AdamRathjen)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This project was completed with the PyCharm IDE 
 
-{Describe the programming language that you used and any libraries.}
+This project was coded in Python 3.7 version.
+I used the arcade library as the basis for the whole thing
+I also added the os library to read in an image to use for the background
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [How to code Arcade examples](https://arcade.academy/examples/index.html)
+* [Real Python Arcade](https://realpython.com/arcade-python-game-framework/)
 
 # Future Work
 

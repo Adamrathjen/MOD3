@@ -2,7 +2,6 @@
 import arcade
 import os
 
-
 SPRITE_SCALING = 1
 TOY_SCALING = 0.5
 
